@@ -150,17 +150,7 @@ transform: scale(0,1);
     overflow: auto;
 }
 
- .home-img {
-    float: left;
-    margin:70px 0;
-    margin-left: 70px;
-}
-.home-img img{
-    border-radius: 50%;
-    border: none;
-    box-shadow: 0px 0px 40px 10px rgb(245,245, 245);
-    background-color: rgba(255, 255, 255, 0.034);
-}
+
 .home-text{
     float: right;
     width: 40%;
@@ -581,6 +571,7 @@ color: #bb7c1d;
 display: inline-block;
 text-align: center;
 cursor: pointer;
+    opacity: 1;
 }
 .product-info{
     margin-top: 10px;
